@@ -1,4 +1,4 @@
-package com.demoqa;
+package org.spring;
 
 
 public class Main {
